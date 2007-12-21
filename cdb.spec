@@ -8,6 +8,7 @@ URL:		http://cr.yp.to/cdb.html
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		%{name}-%{version}-errno.patch
 BuildRequires:	man groff groff-for-man
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 cdb is a fast, reliable, lightweight package for
