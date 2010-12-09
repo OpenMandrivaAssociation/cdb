@@ -1,7 +1,7 @@
 Summary:	Constant DataBase
 Name:		cdb
 Version:	0.55
-Release:	%mkrel 17
+Release:	%mkrel 18
 License:	Public Domain
 Group:		Databases
 URL:		http://cr.yp.to/cdb.html
