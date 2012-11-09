@@ -1,0 +1,9 @@
+--- cdb_seek.c	1996-09-22 01:27:14.000000000 +0200
++++ cdb_seek.c.oden	2003-03-26 21:22:19.000000000 +0100
+@@ -1,6 +1,5 @@
+ #include <sys/types.h>
+ #include <errno.h>
+-extern int errno;
+ #include "cdb.h"
+ 
+ #ifndef SEEK_SET
