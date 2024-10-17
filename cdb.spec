@@ -7,7 +7,7 @@ Version:	0.75
 Release:	2
 License:	Public Domain
 Group:		Databases
-Url:		http://cr.yp.to/cdb.html
+Url:		https://cr.yp.to/cdb.html
 Source0:	%{name}-%{version}.tar.gz
 Patch0:		cdb-0.75-errno.patch
 Patch1:		cdb-0.75-stdint.patch
