@@ -13,6 +13,7 @@ Patch0:		cdb-0.75-errno.patch
 Patch1:		cdb-0.75-stdint.patch
 Obsoletes:	cdb-devel < 0.75
 
+BuildRequires:	make
 %description
 cdb is a fast, reliable, lightweight package for creating and reading
 constant databases.
